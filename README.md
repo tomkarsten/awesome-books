@@ -34,11 +34,11 @@ Data Science | Machine Learning | Visualization | Web | Programming
 [:book: Reinforcement Learning](http://incompleteideas.net/book/the-book.html) | Richard S. Sutton, Andrew G. Barto
 
 ## Math
-[:book: Mathematics for Machine Learning](https://mml-book.github.io/) |Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press | :star::star::star::star::star:
+[:book: Mathematics for Machine Learning](https://mml-book.github.io/) | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press | :star::star::star::star::star:
 
-[Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/) | Peter Bruce, Andrew Bruce, Peter Gedeck | O'Reilly 
+[:book: Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/) | Peter Bruce, Andrew Bruce, Peter Gedeck | O'Reilly 
 
-[Bayesian Data Analysis"](http://www.stat.columbia.edu/~gelman/book/) | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | CRC Press
+[:book: Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | CRC Press
 
 [:moneybag: Linear Algebra Done Right](https://linear.axler.net/) | Sheldon Axler | Springer
 
@@ -76,7 +76,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 ## Data Science
 [:book: R for Data Science](https://r4ds.had.co.nz/) | Hadley Wickham, Garett Grolemund | O'Reilly | :star::star::star::star::star:
 
-[:book: Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) |Jake VanderPlas | O'Reilly | :star::star::star::star::star:
+[:book: Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | Jake VanderPlas | O'Reilly | :star::star::star::star::star:
 
 [:book: Practical Data Science](https://m-clark.github.io/data-processing-and-visualization/) | Michael Clark
 
@@ -85,7 +85,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 ## Reporting & Visualization
 [:book: Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | , Claus O. Wilke | O'Reilly | :star::star::star::star::star:
 
-[:moneybag: Storytelling with Data: A Data Visualization Guide for Business Professionals](http://www.storytellingwithdata.com/) |	Cole Nussbaumer Knaflic | Wiley
+[:moneybag: Storytelling with Data: A Data Visualization Guide for Business Professionals](http://www.storytellingwithdata.com/) | Cole Nussbaumer Knaflic | Wiley
 
 [:book: BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 
@@ -108,7 +108,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 ## Web
 [:moneybag: The Principles of Object-Oriented JavaScript](https://learning.oreilly.com/library/view/the-principles-of/9781457185304/) | Nicholas C. Zakas | No Starch Press | :star::star::star::star::star:
 
-[JavaScript: The Definitive Guide, 7th Edition](https://learning.oreilly.com/library/view/javascript-the-definitive/9781491952016/) | David Flanagan | O'Reilly | | 
+[:moneybag: JavaScript: The Definitive Guide, 7th Edition](https://learning.oreilly.com/library/view/javascript-the-definitive/9781491952016/) | David Flanagan | O'Reilly | 
 :star::star::star::star::star:
 
 [:book: Understanding ECMAScript 6](https://github.com/nzakas/understandinges6) | Nicholas C. Zakas
