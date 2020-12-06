@@ -9,12 +9,13 @@ Data Science | Machine Learning | Visualization | Web | Programming
 [:moneybag: Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2) | Aurélien Géron |O'Reilly | :star::star::star::star::star:
 
 [:book: Machine Learning Refined, 2nd Edition](https://github.com/jermwatt/machine_learning_refined) | Jeremy Watt, Reza Borhani, Aggelos K. Katsaggelos | Cambridge University Press
+
 [:moneybag: Data-Driven Schience and Engineering](http://www.databookuw.com/) | Steven L. Brunton J. Nathan Kutz | Cambridge University Press
 
 [:moneybag: Machine Learning Design Patterns](https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/) | Valliappa Lakshmanan, Sara Robinson, Michael Munn | O'Reilly
 
 ## Deep Learning
-[:book: Dive into Deep Learning](https://d2l.ai/index.html) | Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola | :star::star::star::star::star:
+[:book: Dive into Deep Learning](https://d2l.ai/index.html) | Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola | :star::star::star::star::star:
 
 [:book: Deep Learning ](https://www.deeplearningbook.org/) | Ian Goodfellow, Yoshua Bengio, Aaron Courville | MIT Press | :star::star::star::star::star:
 
@@ -23,7 +24,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:moneybag: Computer Vision Models](http://www.computervisionmodels.com/) | Simon J.D. Prince | Cambridge University Press
 
-[:moneybag: Multiple View Geometry in Computer Vision, 2nd Edition](https://www.robots.ox.ac.uk/~vgg/hzbook/) | Richard Hartley and Andrew Zisserman | Cambridge University Press
+[:moneybag: Multiple View Geometry in Computer Vision, 2nd Edition](https://www.robots.ox.ac.uk/~vgg/hzbook/) | Richard Hartley, Andrew Zisserman | Cambridge University Press
 
 ## Natural Language Processing
 [:moneybag: Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action?query=natural) | Hobson Lane, Cole Howard, Hannes Hapke | Manning 
