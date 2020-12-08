@@ -26,6 +26,8 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:moneybag: Multiple View Geometry in Computer Vision, 2nd Edition](https://www.robots.ox.ac.uk/~vgg/hzbook/) | Richard Hartley, Andrew Zisserman | Cambridge University Press
 
+[:book: Computer Vision: Algorithms and Applications, 2nd Edition](https://szeliski.org/Book/) | Richard Szeliski | Springer
+
 ## Natural Language Processing
 [:moneybag: Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action?query=natural) | Hobson Lane, Cole Howard, Hannes Hapke | Manning 
 
@@ -81,7 +83,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:book: Practical Data Science](https://m-clark.github.io/data-processing-and-visualization/) | Michael Clark
 
-[:book: Introduction to Data Science](https://rafalab.github.io/dsbook/) |, Rafael A. Irizarry | Chapman & Hall
+[:book: Introduction to Data Science](https://rafalab.github.io/dsbook/) |, Rafael A. Irizarry | CRS Press
 
 ## Reporting & Visualization
 [:book: Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | , Claus O. Wilke | O'Reilly | :star::star::star::star::star:
