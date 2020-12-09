@@ -6,7 +6,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:book: Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | Springer | :star::star::star::star::star:
 
-[:moneybag: Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2) | Aurélien Géron |O'Reilly | :star::star::star::star::star:
+[:moneybag: Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2) | Aurélien Géron | O'Reilly | :star::star::star::star::star:
 
 [:book: Machine Learning Refined, 2nd Edition](https://github.com/jermwatt/machine_learning_refined) | Jeremy Watt, Reza Borhani, Aggelos K. Katsaggelos | Cambridge University Press
 
@@ -20,7 +20,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 [:book: Deep Learning ](https://www.deeplearningbook.org/) | Ian Goodfellow, Yoshua Bengio, Aaron Courville | MIT Press | :star::star::star::star::star:
 
 ## Computer Vision
-[:moneybag: Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems)| Mohamed Elgendy | Manning | :star::star::star::star::star:
+[:moneybag: Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems) | Mohamed Elgendy | Manning | :star::star::star::star::star:
 
 [:moneybag: Computer Vision Models](http://www.computervisionmodels.com/) | Simon J.D. Prince | Cambridge University Press
 
@@ -39,7 +39,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 ## Math
 [:book: Mathematics for Machine Learning](https://mml-book.github.io/) | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press | :star::star::star::star::star:
 
-[:book: Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/) | Peter Bruce, Andrew Bruce, Peter Gedeck | O'Reilly 
+[:moneybag: Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/) | Peter Bruce, Andrew Bruce, Peter Gedeck | O'Reilly 
 
 [:book: Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | CRC Press
 
@@ -83,7 +83,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:book: Practical Data Science](https://m-clark.github.io/data-processing-and-visualization/) | Michael Clark
 
-[:book: Introduction to Data Science](https://rafalab.github.io/dsbook/) |, Rafael A. Irizarry | CRS Press
+[:book: Introduction to Data Science](https://rafalab.github.io/dsbook/) | Rafael A. Irizarry | CRS Press
 
 ## Reporting & Visualization
 [:book: Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | , Claus O. Wilke | O'Reilly | :star::star::star::star::star:
