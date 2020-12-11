@@ -6,6 +6,8 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:book: Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | Springer | :star::star::star::star::star:
 
+[:book: Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itila/book.html) | David MacKay | Cambridge University Press
+
 [:moneybag: Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2) | Aurélien Géron | O'Reilly | :star::star::star::star::star:
 
 [:book: Machine Learning Refined, 2nd Edition](https://github.com/jermwatt/machine_learning_refined) | Jeremy Watt, Reza Borhani, Aggelos K. Katsaggelos | Cambridge University Press
