@@ -47,7 +47,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:book: Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | CRC Press
 
-[:moneybag: Linear Algebra Done Right](https://linear.axler.net/) | Sheldon Axler | Springer
+[:book: Linear Algebra Done Right Abridged](https://linear.axler.net/LinearAbridged.pdf) | Sheldon Axler 
 
 [:moneybag: Linear Algebra for Everyone](http://math.mit.edu/~gs/everyone/) | Gilbert Strang | :star::star::star::star::star:
 
