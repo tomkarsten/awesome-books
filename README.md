@@ -1,6 +1,7 @@
 # :books: Awesome Books
 Data Science | Machine Learning | Visualization | Web | Programming
 
+
 ## Machine Learning 
 [:book: Data Mining and Machine Learning](https://dataminingbook.info/book_html/) | Mohammed J. Zaki, Wagner Meira, Jr. | Cambridge University Press | :star::star::star::star::star:
 
@@ -18,6 +19,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:moneybag: Machine Learning Design Patterns](https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/) | Valliappa Lakshmanan, Sara Robinson, Michael Munn | O'Reilly
 
+
 ## Deep Learning
 [:book: Dive into Deep Learning](https://d2l.ai/index.html) | Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola | :star::star::star::star::star:
 
@@ -32,13 +34,16 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:book: Computer Vision: Algorithms and Applications, 2nd Edition](https://szeliski.org/Book/) | Richard Szeliski | Springer
 
+
 ## Natural Language Processing
 [:moneybag: Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action?query=natural) | Hobson Lane, Cole Howard, Hannes Hapke | Manning 
 
 [:book: Speech and Language Processing, Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) | Dan Jurafsky, James H. Martin
 
+
 ## Reinforcement Learning
 [:book: Reinforcement Learning](http://incompleteideas.net/book/the-book.html) | Richard S. Sutton, Andrew G. Barto
+
 
 ## Math
 [:book: Mathematics for Machine Learning](https://mml-book.github.io/) | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press | :star::star::star::star::star:
@@ -57,6 +62,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:moneybag: Statistical Rethinking, 2nd Edition](https://xcelab.net/rm/statistical-rethinking/) | Richard McElreath | CRC Press
 
+
 ## Python 
 [:moneybag: Fluent Python, 2nd Edition](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/) | Lucian Ramalho | O'Reilly | :star::star::star::star::star:
 
@@ -65,6 +71,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 | Addison-Wesley Professional
 
 [:moneybag: Python Cookbook, 3rd Edition](https://learning.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) | David Beazley, Brian K. Jones | O'Reilly
+
 
 ## R
 [:book: Advanced R](https://adv-r.hadley.nz/) | Hadley Wickham | CRC Press | :star::star::star::star::star:
@@ -75,10 +82,12 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:book: R Packages](https://r-pkgs.org/) | Hadley Wickham | O'Reilly
 
+
 ## Rust
 [:book: Rust By Example](https://doc.rust-lang.org/rust-by-example/)
 
 [:book: The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+
 
 ## Data Science
 [:book: R for Data Science](https://r4ds.had.co.nz/) | Hadley Wickham, Garett Grolemund | O'Reilly | :star::star::star::star::star:
@@ -88,6 +97,13 @@ Data Science | Machine Learning | Visualization | Web | Programming
 [:book: Practical Data Science](https://m-clark.github.io/data-processing-and-visualization/) | Michael Clark
 
 [:book: Introduction to Data Science](https://rafalab.github.io/dsbook/) | Rafael A. Irizarry | CRS Press
+
+[:book: Data Analytics: A Small Data Approach](http://analytics.shuaihuang.info/) | Shuai Huang, Houtao Deng | CRC Press
+
+[:book: Modern Data Science with R, 2nd edition](https://beanumber.github.io/mdsr2e/) | Benjamin S. Baumer, Daniel T. Kaplan, Nicholas J. Horton | CRC Press
+
+[:book: Explanatory Model Analysis](http://ema.drwhy.ai/) | Przemyslaw Biecek, Tomasz Burzykowski | CRC Press
+
 
 ## Reporting & Visualization
 [:book: Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | , Claus O. Wilke | O'Reilly | :star::star::star::star::star:
@@ -111,6 +127,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 [:book: Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/index.html) | Carson Sievert | CRC Press
 
 [:book: R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) | Yihui Xie, Christophe Dervieux, Emily Riederer | CRC Press
+
 
 ## Web
 [:moneybag: The Principles of Object-Oriented JavaScript](https://learning.oreilly.com/library/view/the-principles-of/9781457185304/) | Nicholas C. Zakas | No Starch Press | :star::star::star::star::star:
