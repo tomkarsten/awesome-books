@@ -72,6 +72,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:moneybag: Python Cookbook, 3rd Edition](https://learning.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) | David Beazley, Brian K. Jones | O'Reilly
 
+[:book: Python Programming And Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) | Qingkai Kong, Timmy Siauw, Alexandre Bayen | Elsevier
 
 ## R
 [:book: Advanced R](https://adv-r.hadley.nz/) | Hadley Wickham | CRC Press | :star::star::star::star::star:
