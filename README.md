@@ -105,6 +105,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:book: Explanatory Model Analysis](http://ema.drwhy.ai/) | Przemyslaw Biecek, Tomasz Burzykowski | CRC Press
 
+[:book: Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse/) | Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng
 
 ## Reporting & Visualization
 [:book: Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | , Claus O. Wilke | O'Reilly | :star::star::star::star::star:
