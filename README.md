@@ -107,6 +107,8 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:book: Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse/) | Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng
 
+[:book: Algorithms for Decision Making](https://algorithmsbook.com/) | Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray | MIT Press
+
 ## Reporting & Visualization
 [:book: Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | , Claus O. Wilke | O'Reilly | :star::star::star::star::star:
 
