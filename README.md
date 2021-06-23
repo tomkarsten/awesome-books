@@ -9,6 +9,8 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:book: Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | Christopher Bishop | Springer 
 
+[:book: Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | Kevin Patrick Murphy | MIT Press
+
 [:book: Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itila/book.html) | David MacKay | Cambridge University Press
 
 [:moneybag: Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2) | Aurélien Géron | O'Reilly | :star::star::star::star::star:
