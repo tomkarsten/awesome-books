@@ -3,13 +3,14 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 
 ## Machine Learning 
+[:book: Probabilistic Machine Learning: Introduction/Advanced Topics](https://probml.github.io/pml-book/) | Kevin Patrick Murphy | MIT Press
+:star::star::star::star::star:
+
 [:book: Data Mining and Machine Learning](https://dataminingbook.info/book_html/) | Mohammed J. Zaki, Wagner Meira, Jr. | Cambridge University Press | :star::star::star::star::star:
 
 [:book: Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | Springer | :star::star::star::star::star:
 
 [:book: Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | Christopher Bishop | Springer 
-
-[:book: Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) | Kevin Patrick Murphy | MIT Press
 
 [:book: Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itila/book.html) | David MacKay | Cambridge University Press
 
