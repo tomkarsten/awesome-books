@@ -3,6 +3,10 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 ![Awesome Books](https://repository-images.githubusercontent.com/318766572/cc4bb180-4dee-11eb-9add-06a3b2f024c8)
 
+Legend: 
+:book: - available for free, 
+:moneybag: - paid only
+
 ## Machine Learning 
 [:book: Probabilistic Machine Learning: Introduction/Advanced Topics](https://probml.github.io/pml-book/) | Kevin Patrick Murphy | MIT Press
 :star::star::star::star::star:
@@ -133,6 +137,8 @@ Data Science | Machine Learning | Visualization | Web | Programming
 [:book: Data Visualization](https://socviz.co/) | Kieran Healy | Princeton University Press
 
 [:book: Mastering Shiny](https://mastering-shiny.org/) | Hadley Wickham
+
+[:book: Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) | Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard | CRC Press
 
 [:book: Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/index.html) | David Granjon | CRC Press
 
