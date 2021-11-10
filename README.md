@@ -67,6 +67,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:moneybag: Statistical Rethinking, 2nd Edition](https://xcelab.net/rm/statistical-rethinking/) | Richard McElreath | CRC Press
 
+[:book: Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Rob J Hyndman, George Athanasopoulos | OTexts
 
 ## Python 
 [:moneybag: Fluent Python, 2nd Edition](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/) | Lucian Ramalho | O'Reilly | :star::star::star::star::star:
