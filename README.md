@@ -44,6 +44,7 @@ Data Science | Machine Learning | Visualization | Web | Programming
 
 [:book: Speech and Language Processing, Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) | Dan Jurafsky, James H. Martin
 
+[:book: Supervised Machine Learning for Text Analysis in R](https://smltar.com/) | Emil Hvitfeldt, Julia Silge | CRC Press
 
 ## Reinforcement Learning
 [:book: Reinforcement Learning](http://incompleteideas.net/book/the-book.html) | Richard S. Sutton, Andrew G. Barto
@@ -77,6 +78,8 @@ Data Science | Machine Learning | Visualization | Web | Programming
 [:moneybag: Python Cookbook, 3rd Edition](https://learning.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) | David Beazley, Brian K. Jones | O'Reilly
 
 [:book: Python Programming And Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) | Qingkai Kong, Timmy Siauw, Alexandre Bayen | Elsevier
+
+[:book: Architecture Patterns with Python](https://www.cosmicpython.com/) | Harry Percival, Bob Gregory | O'Reilly
 
 ## R
 [:book: Advanced R](https://adv-r.hadley.nz/) | Hadley Wickham | CRC Press | :star::star::star::star::star:
