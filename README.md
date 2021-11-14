@@ -13,7 +13,7 @@ Legend:
 
 [:book: Data Mining and Machine Learning](https://dataminingbook.info/book_html/) | Mohammed J. Zaki, Wagner Meira, Jr. | Cambridge University Press | :star::star::star::star::star:
 
-[:book: Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | Springer | :star::star::star::star::star:
+[:book: Introduction to Statistical Learning](https://www.statlearning.com/) | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | Springer | :star::star::star::star::star:
 
 [:book: Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | Christopher Bishop | Springer 
 
