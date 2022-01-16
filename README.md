@@ -1,11 +1,15 @@
 # :books: Awesome Books
-Data Science | Machine Learning | Visualization | Web | Programming
+Computer Science | Machine Learning | Data Science | Visualization | Web | Programming
 
 ![Awesome Books](https://repository-images.githubusercontent.com/318766572/cc4bb180-4dee-11eb-9add-06a3b2f024c8)
 
 Legend: 
 :book: - available for free, 
 :moneybag: - paid only
+
+## Computer Science
+
+[:book: Structure and Interpretation of Computer Programs (SICP) - JavaScript Edition](https://sourceacademy.org/sicpjs/index) | Harold Abelson, Gerald Jay Sussman, Martin Henz, Tobias Wrigstad, Samuel Fang | MIT Press :star::star::star::star::star:
 
 ## Machine Learning 
 [:book: Probabilistic Machine Learning: Introduction/Advanced Topics](https://probml.github.io/pml-book/) | Kevin Patrick Murphy | MIT Press
@@ -162,3 +166,5 @@ Legend:
 [:book: JavaScript for impatient programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) | Dr. Axel Rauschmayer
 
 [:book: Deep JavaScript](https://exploringjs.com/deep-js/toc.html) | Dr. Axel Rauschmayer
+
+
