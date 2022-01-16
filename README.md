@@ -75,6 +75,8 @@ Legend:
 
 [:moneybag: Statistical Rethinking, 2nd Edition](https://xcelab.net/rm/statistical-rethinking/) | Richard McElreath | CRC Press
 
+[:book: Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) | Martin, Osvaldo A. and Kumar, Ravin and Lao, Junpeng | CRC Press
+
 [:book: Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Rob J Hyndman, George Athanasopoulos | OTexts
 
 ## Python 
