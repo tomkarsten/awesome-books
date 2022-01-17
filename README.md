@@ -5,7 +5,6 @@ Computer Science | Machine Learning | Data Science | Visualization | Web | Progr
 
 Legend: 
 :book: - available for free, 
-:moneybag: - paid only
 
 ## Computer Science
 
