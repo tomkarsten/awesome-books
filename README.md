@@ -1,14 +1,16 @@
 # :books: Awesome Books
-Computer Science | Machine Learning | Data Science | Visualization | Web | Programming
+
+A comprehensive list of (mostly free) books on:
+
+_Computer Science | Machine Learning | Data Science | Visualization | Web | Programming_
 
 ![Awesome Books](https://repository-images.githubusercontent.com/318766572/cc4bb180-4dee-11eb-9add-06a3b2f024c8)
 
-Legend: 
-:book: - available for free, 
 
 ## Computer Science
 
 [:book: Structure and Interpretation of Computer Programs (SICP) - JavaScript Edition](https://sourceacademy.org/sicpjs/index) | Harold Abelson, Gerald Jay Sussman, Martin Henz, Tobias Wrigstad, Samuel Fang | MIT Press :star::star::star::star::star:
+
 
 ## Machine Learning 
 [:book: Probabilistic Machine Learning: Introduction/Advanced Topics](https://probml.github.io/pml-book/) | Kevin Patrick Murphy | MIT Press
@@ -30,11 +32,14 @@ Legend:
 
 [:moneybag: Machine Learning Design Patterns](https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/) | Valliappa Lakshmanan, Sara Robinson, Michael Munn | O'Reilly
 
+[:book: Machine Learning - A First Course for Engineers and Scientists](https://smlbook.org/) | Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, Thomas B. Schön | Cambridge University Press
+
 
 ## Deep Learning
 [:book: Dive into Deep Learning](https://d2l.ai/index.html) | Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola | :star::star::star::star::star:
 
 [:book: Deep Learning ](https://www.deeplearningbook.org/) | Ian Goodfellow, Yoshua Bengio, Aaron Courville | MIT Press | :star::star::star::star::star:
+
 
 ## Computer Vision
 [:moneybag: Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems) | Mohamed Elgendy | Manning | :star::star::star::star::star:
@@ -52,6 +57,7 @@ Legend:
 [:book: Speech and Language Processing, Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) | Dan Jurafsky, James H. Martin
 
 [:book: Supervised Machine Learning for Text Analysis in R](https://smltar.com/) | Emil Hvitfeldt, Julia Silge | CRC Press
+
 
 ## Reinforcement Learning
 [:book: Reinforcement Learning](http://incompleteideas.net/book/the-book.html) | Richard S. Sutton, Andrew G. Barto
@@ -78,34 +84,6 @@ Legend:
 
 [:book: Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Rob J Hyndman, George Athanasopoulos | OTexts
 
-## Python 
-[:moneybag: Fluent Python, 2nd Edition](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/) | Lucian Ramalho | O'Reilly | :star::star::star::star::star:
-
-[:moneybag: Effective Python: 90 Specific Ways to Write Better Python, 2nd Edition](https://learning.oreilly.com/library/view/effective-python-90/9780134854717/) | Brett Slatkin 
-
-| Addison-Wesley Professional
-
-[:moneybag: Python Cookbook, 3rd Edition](https://learning.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) | David Beazley, Brian K. Jones | O'Reilly
-
-[:book: Python Programming And Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) | Qingkai Kong, Timmy Siauw, Alexandre Bayen | Elsevier
-
-[:book: Architecture Patterns with Python](https://www.cosmicpython.com/) | Harry Percival, Bob Gregory | O'Reilly
-
-## R
-[:book: Advanced R](https://adv-r.hadley.nz/) | Hadley Wickham | CRC Press | :star::star::star::star::star:
-
-[:book: Hands-On Programming with R](https://rstudio-education.github.io/hopr/) | Garrett Grolemund | O'Reilly
-
-[:book: Efficient R programming](https://csgillespie.github.io/efficientR/) | Colin Gillespie, Robin Lovelace
-
-[:book: R Packages](https://r-pkgs.org/) | Hadley Wickham | O'Reilly
-
-
-## Rust
-[:book: Rust By Example](https://doc.rust-lang.org/rust-by-example/)
-
-[:book: The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
-
 
 ## Data Science
 [:book: R for Data Science](https://r4ds.had.co.nz/) | Hadley Wickham, Garett Grolemund | O'Reilly | :star::star::star::star::star:
@@ -125,6 +103,7 @@ Legend:
 [:book: Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse/) | Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng
 
 [:book: Algorithms for Decision Making](https://algorithmsbook.com/) | Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray | MIT Press
+
 
 ## Reporting & Visualization
 [:book: Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | , Claus O. Wilke | O'Reilly | :star::star::star::star::star:
@@ -169,3 +148,31 @@ Legend:
 [:book: Deep JavaScript](https://exploringjs.com/deep-js/toc.html) | Dr. Axel Rauschmayer
 
 
+## Programming Python 
+[:moneybag: Fluent Python, 2nd Edition](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/) | Lucian Ramalho | O'Reilly | :star::star::star::star::star:
+
+[:moneybag: Effective Python: 90 Specific Ways to Write Better Python, 2nd Edition](https://learning.oreilly.com/library/view/effective-python-90/9780134854717/) | Brett Slatkin 
+
+| Addison-Wesley Professional
+
+[:moneybag: Python Cookbook, 3rd Edition](https://learning.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) | David Beazley, Brian K. Jones | O'Reilly
+
+[:book: Python Programming And Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) | Qingkai Kong, Timmy Siauw, Alexandre Bayen | Elsevier
+
+[:book: Architecture Patterns with Python](https://www.cosmicpython.com/) | Harry Percival, Bob Gregory | O'Reilly
+
+
+## Programming R
+[:book: Advanced R](https://adv-r.hadley.nz/) | Hadley Wickham | CRC Press | :star::star::star::star::star:
+
+[:book: Hands-On Programming with R](https://rstudio-education.github.io/hopr/) | Garrett Grolemund | O'Reilly
+
+[:book: Efficient R programming](https://csgillespie.github.io/efficientR/) | Colin Gillespie, Robin Lovelace
+
+[:book: R Packages](https://r-pkgs.org/) | Hadley Wickham | O'Reilly
+
+
+## Programming Rust
+[:book: Rust By Example](https://doc.rust-lang.org/rust-by-example/)
+
+[:book: The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
