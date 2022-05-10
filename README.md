@@ -84,6 +84,8 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 [:book: Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Rob J Hyndman, George Athanasopoulos | OTexts
 
+[:book: Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) | Alicia A. Johnson, Miles Q. Ott, Mine Dogucu | CRC Press
+
 
 ## Data Science
 [:book: R for Data Science](https://r4ds.had.co.nz/) | Hadley Wickham, Garett Grolemund | O'Reilly | :star::star::star::star::star:
