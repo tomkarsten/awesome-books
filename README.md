@@ -92,6 +92,8 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 [:book: Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | Jake VanderPlas | O'Reilly | :star::star::star::star::star:
 
+[:book: Python for Data Analysis, 3rd edition](https://wesmckinney.com/book/) | Wes McKinney | O'Reilly | :star::star::star::star::star:
+
 [:book: Practical Data Science](https://m-clark.github.io/data-processing-and-visualization/) | Michael Clark
 
 [:book: Introduction to Data Science](https://rafalab.github.io/dsbook/) | Rafael A. Irizarry | CRS Press
