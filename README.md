@@ -62,6 +62,9 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 ## Reinforcement Learning
 [:book: Reinforcement Learning](http://incompleteideas.net/book/the-book.html) | Richard S. Sutton, Andrew G. Barto
 
+## Explainable AI (XAI)
+[:book: Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) | 2022 | Christoph Molnar
+
 
 ## Math
 [:book: Mathematics for Machine Learning](https://mml-book.github.io/) | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press | :star::star::star::star::star:
