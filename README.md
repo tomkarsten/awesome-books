@@ -10,13 +10,15 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 * **The Theory and Practice of Enterprise AI** | Ilya Katsov | 2022
   * A comprehensive guide to how marketing, supply chain, and production operations can be improved using deep learning and reinforcement learning methods, as well as their combination with traditional analytics and optimization approaches. The book is written for enterprise data scientists and analytics managers, and will also be useful for graduate students in operations research and applied statistics. 
-  * [:book: PDF version](https://www.enterprise-ai-book.com/) 
+  * [:book: PDF version](https://www.enterprise-ai-book.com/)
+  * [:package: Code repository](https://github.com/ikatsov/tensor-house/) 
 
 ## Machine Learning 
 
-**Probabilistic Machine Learning: Introduction** | Kevin Patrick Murphy | MIT Press | :star::star::star::star::star:
-* A detailed and up-to-date introduction to machine learning (including deep learning) through the unifying lens of probabilistic modeling and Bayesian decision theory. The book covers mathematical background (including linear algebra and optimization), basic supervised learning (including linear and logistic regression and deep neural networks), as well as more advanced topics (including transfer learning and unsupervised learning).
-* [:book: PDF version](https://probml.github.io/pml-book/book1.html) 
+* **Probabilistic Machine Learning: Introduction** | Kevin Patrick Murphy | MIT Press | :star::star::star::star::star:
+  * A detailed and up-to-date introduction to machine learning (including deep learning) through the unifying lens of probabilistic modeling and Bayesian decision theory. The book covers mathematical background (including linear algebra and optimization), basic supervised learning (including linear and logistic regression and deep neural networks), as well as more advanced topics (including transfer learning and unsupervised learning).
+  * [:book: PDF version](https://probml.github.io/pml-book/book1.html)
+  * [:package: Code repository](https://github.com/probml/pyprobml/tree/master/notebooks/book1) 
   
 [:book: Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) | Kevin Patrick Murphy | MIT Press | :star::star::star::star::star:
 
