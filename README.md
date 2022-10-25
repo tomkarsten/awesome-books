@@ -1,20 +1,15 @@
 # :books: Awesome Books
 
+<img src="https://repository-images.githubusercontent.com/318766572/cc4bb180-4dee-11eb-9add-06a3b2f024c8" height="128px" align="right">
+
 A comprehensive list of (mostly free) books on:
 
 _Computer Science | Machine Learning | Data Science | Visualization | Web | Programming_
 
-![Awesome Books](https://repository-images.githubusercontent.com/318766572/cc4bb180-4dee-11eb-9add-06a3b2f024c8)
-
-
-## Computer Science
-
-[:book: Structure and Interpretation of Computer Programs (SICP) - JavaScript Edition](https://sourceacademy.org/sicpjs/index) | Harold Abelson, Gerald Jay Sussman, Martin Henz, Tobias Wrigstad, Samuel Fang | MIT Press :star::star::star::star::star:
-
 
 ## Machine Learning 
-[:book: Probabilistic Machine Learning: Introduction/Advanced Topics](https://probml.github.io/pml-book/) | Kevin Patrick Murphy | MIT Press
-:star::star::star::star::star:
+
+[:book: Probabilistic Machine Learning: Introduction/Advanced Topics](https://probml.github.io/pml-book/) | Kevin Patrick Murphy | MIT Press | :star::star::star::star::star:
 
 [:book: Data Mining and Machine Learning](https://dataminingbook.info/book_html/) | Mohammed J. Zaki, Wagner Meira, Jr. | Cambridge University Press | :star::star::star::star::star:
 
@@ -36,12 +31,14 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 
 ## Deep Learning
+
 [:book: Dive into Deep Learning](https://d2l.ai/index.html) | Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola | :star::star::star::star::star:
 
 [:book: Deep Learning ](https://www.deeplearningbook.org/) | Ian Goodfellow, Yoshua Bengio, Aaron Courville | MIT Press | :star::star::star::star::star:
 
 
 ## Computer Vision
+
 [:moneybag: Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems) | Mohamed Elgendy | Manning | :star::star::star::star::star:
 
 [:moneybag: Computer Vision Models](http://www.computervisionmodels.com/) | Simon J.D. Prince | Cambridge University Press
@@ -52,6 +49,7 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 
 ## Natural Language Processing
+
 [:moneybag: Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action?query=natural) | Hobson Lane, Cole Howard, Hannes Hapke | Manning 
 
 [:book: Speech and Language Processing, Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) | Dan Jurafsky, James H. Martin
@@ -60,13 +58,17 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 
 ## Reinforcement Learning
+
 [:book: Reinforcement Learning](http://incompleteideas.net/book/the-book.html) | Richard S. Sutton, Andrew G. Barto
 
+
 ## Explainable AI (XAI)
+
 [:book: Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) | 2022 | Christoph Molnar
 
 
 ## Math
+
 [:book: Mathematics for Machine Learning](https://mml-book.github.io/) | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press | :star::star::star::star::star:
 
 [:moneybag: Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/) | Peter Bruce, Andrew Bruce, Peter Gedeck | O'Reilly 
@@ -91,6 +93,7 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 
 ## Data Science
+
 [:book: R for Data Science](https://r4ds.had.co.nz/) | Hadley Wickham, Garett Grolemund | O'Reilly | :star::star::star::star::star:
 
 [:book: Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | Jake VanderPlas | O'Reilly | :star::star::star::star::star:
@@ -113,6 +116,7 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 
 ## Reporting & Visualization
+
 [:book: Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | , Claus O. Wilke | O'Reilly | :star::star::star::star::star:
 
 [:moneybag: Storytelling with Data: A Data Visualization Guide for Business Professionals](http://www.storytellingwithdata.com/) | Cole Nussbaumer Knaflic | Wiley
@@ -139,6 +143,7 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 
 ## Web
+
 [:moneybag: The Principles of Object-Oriented JavaScript](https://learning.oreilly.com/library/view/the-principles-of/9781457185304/) | Nicholas C. Zakas | No Starch Press | :star::star::star::star::star:
 
 [:moneybag: JavaScript: The Definitive Guide, 7th Edition](https://learning.oreilly.com/library/view/javascript-the-definitive/9781491952016/) | David Flanagan | O'Reilly | 
@@ -156,6 +161,7 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 
 ## Programming Python 
+
 [:moneybag: Fluent Python, 2nd Edition](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/) | Lucian Ramalho | O'Reilly | :star::star::star::star::star:
 
 [:moneybag: Effective Python: 90 Specific Ways to Write Better Python, 2nd Edition](https://learning.oreilly.com/library/view/effective-python-90/9780134854717/) | Brett Slatkin 
@@ -170,6 +176,7 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 
 ## Programming R
+
 [:book: Advanced R](https://adv-r.hadley.nz/) | Hadley Wickham | CRC Press | :star::star::star::star::star:
 
 [:book: Hands-On Programming with R](https://rstudio-education.github.io/hopr/) | Garrett Grolemund | O'Reilly
@@ -180,6 +187,12 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 
 ## Programming Rust
+
 [:book: Rust By Example](https://doc.rust-lang.org/rust-by-example/)
 
 [:book: The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+
+## Computer Science
+
+[:book: Structure and Interpretation of Computer Programs (SICP) - JavaScript Edition](https://sourceacademy.org/sicpjs/index) | Harold Abelson, Gerald Jay Sussman, Martin Henz, Tobias Wrigstad, Samuel Fang | MIT Press :star::star::star::star::star:
+
