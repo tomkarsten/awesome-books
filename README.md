@@ -9,7 +9,9 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 
 ## Machine Learning 
 
-[:book: Probabilistic Machine Learning: Introduction/Advanced Topics](https://probml.github.io/pml-book/) | Kevin Patrick Murphy | MIT Press | :star::star::star::star::star:
+[:book: Probabilistic Machine Learning: Introduction](https://probml.github.io/pml-book/book1.html) | Kevin Patrick Murphy | MIT Press | :star::star::star::star::star:
+
+[:book: Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) | Kevin Patrick Murphy | MIT Press | :star::star::star::star::star:
 
 [:book: Data Mining and Machine Learning](https://dataminingbook.info/book_html/) | Mohammed J. Zaki, Wagner Meira, Jr. | Cambridge University Press | :star::star::star::star::star:
 
