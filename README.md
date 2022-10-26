@@ -1,52 +1,58 @@
-# :books: Awesome Books
+# :books: Awesome Books for Data Scientists
 
 <img src="https://repository-images.githubusercontent.com/318766572/cc4bb180-4dee-11eb-9add-06a3b2f024c8" height="128px" align="right">
 
-A comprehensive list of (mostly free) books on:
-
-_Computer Science | Machine Learning | Data Science | Visualization | Web | Programming_
 
 ## AI/General
 
 * **The Theory and Practice of Enterprise AI** | Ilya Katsov | 2022
-  * A comprehensive guide to how marketing, supply chain, and production operations can be improved using deep learning and reinforcement learning methods, as well as their combination with traditional analytics and optimization approaches. The book is written for enterprise data scientists and analytics managers, and will also be useful for graduate students in operations research and applied statistics. 
+  * A comprehensive guide to how marketing, supply chain, and production operations can be improved using deep learning and reinforcement learning methods, as well as their combination with traditional analytics and optimization approaches. The book is written for enterprise data scientists and analytics managers, and will also be useful for graduate students in operations research and applied statistics.
   * [:book: PDF version](https://www.enterprise-ai-book.com/)
-  * [:package: Code repository](https://github.com/ikatsov/tensor-house/) 
+  * [:memo: Notebooks/Code](https://github.com/ikatsov/tensor-house/) 
 
 ## Machine Learning 
 
-* **Probabilistic Machine Learning: Introduction** | Kevin Patrick Murphy | MIT Press | :star::star::star::star::star:
+* **Probabilistic Machine Learning: Introduction** | Kevin Patrick Murphy | MIT Press | 2022 |:star::star::star::star::star:
   * A detailed and up-to-date introduction to machine learning (including deep learning) through the unifying lens of probabilistic modeling and Bayesian decision theory. The book covers mathematical background (including linear algebra and optimization), basic supervised learning (including linear and logistic regression and deep neural networks), as well as more advanced topics (including transfer learning and unsupervised learning).
   * [:book: PDF version](https://probml.github.io/pml-book/book1.html)
-  * [:package: Code repository](https://github.com/probml/pyprobml/tree/master/notebooks/book1) 
-  
-[:book: Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) | Kevin Patrick Murphy | MIT Press | :star::star::star::star::star:
-
-[:book: Data Mining and Machine Learning](https://dataminingbook.info/book_html/) | Mohammed J. Zaki, Wagner Meira, Jr. | Cambridge University Press | :star::star::star::star::star:
-
-[:book: Introduction to Statistical Learning](https://www.statlearning.com/) | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | Springer | :star::star::star::star::star:
-
-[:book: Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | Christopher Bishop | Springer 
-
-[:book: Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itila/book.html) | David MacKay | Cambridge University Press
-
-[:moneybag: Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml2) | Aurélien Géron | O'Reilly | :star::star::star::star::star:
-
-[:book: Machine Learning Refined, 2nd Edition](https://github.com/jermwatt/machine_learning_refined) | Jeremy Watt, Reza Borhani, Aggelos K. Katsaggelos | Cambridge University Press
-
-[:moneybag: Data-Driven Schience and Engineering](http://www.databookuw.com/) | Steven L. Brunton J. Nathan Kutz | Cambridge University Press
-
-[:moneybag: Machine Learning Design Patterns](https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/) | Valliappa Lakshmanan, Sara Robinson, Michael Munn | O'Reilly
-
-[:book: Machine Learning - A First Course for Engineers and Scientists](https://smlbook.org/) | Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, Thomas B. Schön | Cambridge University Press
-
+  * [:memo: Notebooks/Code](https://github.com/probml/pyprobml/tree/master/notebooks/book1)   
+* **Probabilistic Machine Learning: Advanced Topics** | Kevin Patrick Murphy | MIT Press | :star::star::star::star::star:
+  * [:book: PDF version](https://probml.github.io/pml-book/book2.html)
+  * [:memo: Notebooks/Code](https://github.com/probml/pyprobml/tree/master/notebooks/book2)
+* **Data Mining and Machine Learning** | Mohammed J. Zaki, Wagner Meira, Jr. | Cambridge University Press | :star::star::star::star::star:
+  * [:globe_with_meridians: Web version](https://dataminingbook.info/book_html/)
+* **Introduction to Statistical Learning** | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | Springer | :star::star::star::star::star:
+  * An Introduction to Statistical Learning provides a broad and less technical treatment of key topics in statistical learning. Each chapter includes an R lab. This book is appropriate for anyone who wishes to use contemporary tools for data analysis.
+  * [:book: PDF version](https://www.statlearning.com/)
+* **Pattern Recognition and Machine Learning** | Christopher Bishop | Springer 
+  * This leading textbook provides a comprehensive introduction to the fields of pattern recognition and machine learning. It is aimed at advanced undergraduates or first-year PhD students, as well as researchers and practitioners. No previous knowledge of pattern recognition or machine learning concepts is assumed. This is the first machine learning textbook to include a comprehensive coverage of recent developments such as probabilistic graphical models and deterministic inference methods, and to emphasize a modern Bayesian perspective.
+  * [:book: PDF version](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
+* [:book: **Information Theory, Inference, and Learning Algorithms**](http://www.inference.org.uk/itila/book.html) | David MacKay | Cambridge University Press
+* **Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow 3rd Edition** | Aurélien Géron | O'Reilly | :star::star::star::star::star:
+  * This best-selling book uses concrete examples, minimal theory, and production-ready Python frameworks: scikit-learn, Keras, and TensorFlow to help you gain an intuitive understanding of the concepts and tools for building intelligent systems
+  * [:memo: Notebooks/Code](https://github.com/ageron/handson-ml3) 
+* **Machine Learning Refined, 2nd Edition** | Jeremy Watt, Reza Borhani, Aggelos K. Katsaggelos | Cambridge University Press
+  * [:memo: Notebooks/Code](https://github.com/jermwatt/machine_learning_refined) 
+* **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control 2nd Edition** | Steven L. Brunton J. Nathan Kutz | Cambridge University Press
+  * This textbook trains mathematical scientists and engineers for the next generation of scientific discovery by offering a broad overview of the growing intersection of data-driven methods, machine learning, applied optimization, and classical fields of engineering mathematics and mathematical physics. With a focus on integrating dynamical systems modeling and control with modern methods in applied machine learning, this text includes methods that were chosen for their relevance, simplicity, and generality. Topics range from introductory to research-level material, making it accessible to advanced undergraduate and beginning graduate students from the engineering and physical sciences.
+* [:moneybag: **Machine Learning Design Patterns**](https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/) | Valliappa Lakshmanan, Sara Robinson, Michael Munn | O'Reilly
+  * The design patterns in this book capture best practices and solutions to recurring problems in machine learning. The authors, three Google engineers, catalog proven methods to help data scientists tackle common problems throughout the ML process. These design patterns codify the experience of hundreds of experts into straightforward, approachable advice. In this book, you will find detailed explanations of 30 patterns for data and problem representation, operationalization, repeatability, reproducibility, flexibility, explainability, and fairness. Each pattern includes a description of the problem, a variety of potential solutions, and recommendations for choosing the best technique for your situation.
+  * [:memo: Notebooks/Code](https://github.com/GoogleCloudPlatform/ml-design-patterns)
+* **Machine Learning - A First Course for Engineers and Scientists**](https://smlbook.org/) | Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, Thomas B. Schön | Cambridge University Press
+  * This book covers a selection of supervised machine learning methods, from the most fundamental (k-NN, decision trees, linear and logistic regression) to more advanced methods (deep neural networks, support vector machines, Gaussian processes, random forests and boosting), plus commonly-used unsupervised methods (generative modeling, k-means, PCA, autoencoders and generative adversarial networks). Careful explanations and pseudo-code are presented for all methods. The authors maintain a focus on the fundamentals by drawing connections between methods and discussing general concepts such as loss functions, maximum likelihood, the bias-variance decomposition, ensemble averaging, kernels and the Bayesian approach along with generally useful tools such as regularization, cross validation, evaluation metrics and optimization methods. The final chapters offer practical advice for solving real-world supervised machine learning problems and on ethical aspects of modern machine learning.
+  * [:book: PDF version](https://smlbook.org/)
+  * [:memo: Notebooks/Code](https://github.com/uu-sml/course-sml-public)
 
 ## Deep Learning
 
-[:book: Dive into Deep Learning](https://d2l.ai/index.html) | Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola | :star::star::star::star::star:
-
-[:book: Deep Learning ](https://www.deeplearningbook.org/) | Ian Goodfellow, Yoshua Bengio, Aaron Courville | MIT Press | :star::star::star::star::star:
-
+* **Dive into Deep Learning** | Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola | :star::star::star::star::star:
+* This book represents an attempt to make deep learning approachable, teaching the concepts, the context, and the code at the same time.
+  * [:globe_with_meridians: Web version](https://d2l.ai/)
+  * :book: [PDF Version in PyTorch](https://d2l.ai/d2l-en.pdf), [PDF Version in MXNet](https://d2l.ai/d2l-en-mxnet.pdf)
+  * [:memo: Notebooks/Code](https://d2l.ai/d2l-en.zip)   
+* **Deep Learning** | Ian Goodfellow, Yoshua Bengio, Aaron Courville | MIT Press | :star::star::star::star::star:
+  * This book offers mathematical and conceptual background, covering relevant concepts in linear algebra, probability theory and information theory, numerical computation, and machine learning. It describes deep learning techniques used by practitioners in industry, including deep feedforward networks, regularization, optimization algorithms, convolutional networks, sequence modeling, and practical methodology; and it surveys such applications as natural language processing, speech recognition, computer vision, online recommendation systems, bioinformatics, and videogames. Finally, the book offers research perspectives, covering such theoretical topics as linear factor models, autoencoders, representation learning, structured probabilistic models, Monte Carlo methods, the partition function, approximate inference, and deep generative models.
+  * [:globe_with_meridians: Web version](https://www.deeplearningbook.org/)
 
 ## Computer Vision
 
@@ -206,4 +212,3 @@ _Computer Science | Machine Learning | Data Science | Visualization | Web | Prog
 ## Computer Science
 
 [:book: Structure and Interpretation of Computer Programs (SICP) - JavaScript Edition](https://sourceacademy.org/sicpjs/index) | Harold Abelson, Gerald Jay Sussman, Martin Henz, Tobias Wrigstad, Samuel Fang | MIT Press :star::star::star::star::star:
-
