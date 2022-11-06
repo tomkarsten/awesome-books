@@ -12,33 +12,32 @@
 
 ## Machine Learning 
 
-* **Probabilistic Machine Learning: Introduction** | Kevin Patrick Murphy | MIT Press | 2022 |:star::star::star::star::star:
+* **Probabilistic Machine Learning: Introduction** | Kevin Patrick Murphy | MIT Press | 2022 :star::star::star::star::star:
   * A detailed and up-to-date introduction to machine learning (including deep learning) through the unifying lens of probabilistic modeling and Bayesian decision theory. The book covers mathematical background (including linear algebra and optimization), basic supervised learning (including linear and logistic regression and deep neural networks), as well as more advanced topics (including transfer learning and unsupervised learning).
   * [:book: PDF version](https://probml.github.io/pml-book/book1.html)
   * [:memo: Notebooks/Code](https://github.com/probml/pyprobml/tree/master/notebooks/book1)   
-* **Probabilistic Machine Learning: Advanced Topics** | Kevin Patrick Murphy | MIT Press | :star::star::star::star::star:
+* **Probabilistic Machine Learning: Advanced Topics** | Kevin Patrick Murphy | MIT Press | 2023 :star::star::star::star::star:
   * [:book: PDF version](https://probml.github.io/pml-book/book2.html)
   * [:memo: Notebooks/Code](https://github.com/probml/pyprobml/tree/master/notebooks/book2)
-* **Data Mining and Machine Learning** | Mohammed J. Zaki, Wagner Meira, Jr. | Cambridge University Press | :star::star::star::star::star:
+* **Data Mining and Machine Learning** | Mohammed J. Zaki, Wagner Meira, Jr. | Cambridge University Press | 2020 :star::star::star::star::star:
   * [:globe_with_meridians: Web version](https://dataminingbook.info/book_html/)
-* **Introduction to Statistical Learning** | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | Springer | :star::star::star::star::star:
+* **Introduction to Statistical Learning** | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | Springer :star::star::star::star::star:
   * An Introduction to Statistical Learning provides a broad and less technical treatment of key topics in statistical learning. Each chapter includes an R lab. This book is appropriate for anyone who wishes to use contemporary tools for data analysis.
   * [:book: PDF version](https://www.statlearning.com/)
 * **Pattern Recognition and Machine Learning** | Christopher Bishop | Springer 
   * This leading textbook provides a comprehensive introduction to the fields of pattern recognition and machine learning. It is aimed at advanced undergraduates or first-year PhD students, as well as researchers and practitioners. No previous knowledge of pattern recognition or machine learning concepts is assumed. This is the first machine learning textbook to include a comprehensive coverage of recent developments such as probabilistic graphical models and deterministic inference methods, and to emphasize a modern Bayesian perspective.
   * [:book: PDF version](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
-* [:book: **Information Theory, Inference, and Learning Algorithms**](http://www.inference.org.uk/itila/book.html) | David MacKay | Cambridge University Press
-* **Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow 3rd Edition** | Aurélien Géron | O'Reilly | :star::star::star::star::star:
+* **Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow 3rd Edition** | Aurélien Géron | O'Reilly :star::star::star::star::star:
   * This best-selling book uses concrete examples, minimal theory, and production-ready Python frameworks: scikit-learn, Keras, and TensorFlow to help you gain an intuitive understanding of the concepts and tools for building intelligent systems
   * [:memo: Notebooks/Code](https://github.com/ageron/handson-ml3) 
 * **Machine Learning Refined, 2nd Edition** | Jeremy Watt, Reza Borhani, Aggelos K. Katsaggelos | Cambridge University Press
   * [:memo: Notebooks/Code](https://github.com/jermwatt/machine_learning_refined) 
 * **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control 2nd Edition** | Steven L. Brunton J. Nathan Kutz | Cambridge University Press
   * This textbook trains mathematical scientists and engineers for the next generation of scientific discovery by offering a broad overview of the growing intersection of data-driven methods, machine learning, applied optimization, and classical fields of engineering mathematics and mathematical physics. With a focus on integrating dynamical systems modeling and control with modern methods in applied machine learning, this text includes methods that were chosen for their relevance, simplicity, and generality. Topics range from introductory to research-level material, making it accessible to advanced undergraduate and beginning graduate students from the engineering and physical sciences.
-* [:moneybag: **Machine Learning Design Patterns**](https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/) | Valliappa Lakshmanan, Sara Robinson, Michael Munn | O'Reilly
+* **Machine Learning Design Patterns** | Valliappa Lakshmanan, Sara Robinson, Michael Munn | O'Reilly
   * The design patterns in this book capture best practices and solutions to recurring problems in machine learning. The authors, three Google engineers, catalog proven methods to help data scientists tackle common problems throughout the ML process. These design patterns codify the experience of hundreds of experts into straightforward, approachable advice. In this book, you will find detailed explanations of 30 patterns for data and problem representation, operationalization, repeatability, reproducibility, flexibility, explainability, and fairness. Each pattern includes a description of the problem, a variety of potential solutions, and recommendations for choosing the best technique for your situation.
   * [:memo: Notebooks/Code](https://github.com/GoogleCloudPlatform/ml-design-patterns)
-* **Machine Learning - A First Course for Engineers and Scientists**](https://smlbook.org/) | Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, Thomas B. Schön | Cambridge University Press
+* **Machine Learning - A First Course for Engineers and Scientists** | Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, Thomas B. Schön | Cambridge University Press | 2022
   * This book covers a selection of supervised machine learning methods, from the most fundamental (k-NN, decision trees, linear and logistic regression) to more advanced methods (deep neural networks, support vector machines, Gaussian processes, random forests and boosting), plus commonly-used unsupervised methods (generative modeling, k-means, PCA, autoencoders and generative adversarial networks). Careful explanations and pseudo-code are presented for all methods. The authors maintain a focus on the fundamentals by drawing connections between methods and discussing general concepts such as loss functions, maximum likelihood, the bias-variance decomposition, ensemble averaging, kernels and the Bayesian approach along with generally useful tools such as regularization, cross validation, evaluation metrics and optimization methods. The final chapters offer practical advice for solving real-world supervised machine learning problems and on ethical aspects of modern machine learning.
   * [:book: PDF version](https://smlbook.org/)
   * [:memo: Notebooks/Code](https://github.com/uu-sml/course-sml-public)
