@@ -56,33 +56,31 @@
 
 ## Computer Vision
 
-[:moneybag: Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems) | Mohamed Elgendy | Manning | :star::star::star::star::star:
-
-[:moneybag: Computer Vision Models](http://www.computervisionmodels.com/) | Simon J.D. Prince | Cambridge University Press
-
-[:moneybag: Multiple View Geometry in Computer Vision, 2nd Edition](https://www.robots.ox.ac.uk/~vgg/hzbook/) | Richard Hartley, Andrew Zisserman | Cambridge University Press
-
-[:book: Computer Vision: Algorithms and Applications, 2nd Edition](https://szeliski.org/Book/) | Richard Szeliski | Springer
+* **Deep Learning for Vision Systems** | Mohamed Elgendy | Manning | 2022 |:star::star::star::star::star:
+  * [:memo: Notebooks/Code](https://github.com/moelgendy/deep_learning_for_vision_systems)
 
 
 ## Natural Language Processing
 
-[:moneybag: Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action?query=natural) | Hobson Lane, Cole Howard, Hannes Hapke | Manning 
-
-[:book: Speech and Language Processing, Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) | Dan Jurafsky, James H. Martin
-
-[:book: Supervised Machine Learning for Text Analysis in R](https://smltar.com/) | Emil Hvitfeldt, Julia Silge | CRC Press
-
+* **Natural Language Processing in Action, Second Edition** | Hobson Lane, Maria Dyshel | Manning | 2023
+  * [:memo: Notebooks/Code](https://www.manning.com/books/natural-language-processing-in-action-second-edition) 
+* **Speech and Language Processing** | Dan Jurafsky, James H. Martin 
+  * [:book: PDF version](https://web.stanford.edu/~jurafsky/slp3/)
+* **Supervised Machine Learning for Text Analysis in R** | Emil Hvitfeldt, Julia Silge | CRC Press
+  * [:book: PDF version](https://smltar.com/)
+  * [:memo: Notebooks/Code](https://github.com/EmilHvitfeldt/smltar) 
 
 ## Reinforcement Learning
 
-[:book: Reinforcement Learning](http://incompleteideas.net/book/the-book.html) | Richard S. Sutton, Andrew G. Barto
-
+* **Reinforcement Learning** | Richard S. Sutton, Andrew G. Barto | MIT Press | 2022
+  * [:book: PDF version](http://incompleteideas.net/book/the-book.html)
+  * [:memo: Notebooks/Code](http://incompleteideas.net/book/code/code2nd.html) 
 
 ## Explainable AI (XAI)
 
-[:book: Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) | 2022 | Christoph Molnar
-
+* **Interpretable Machine Learning** | Christoph Molnar | 2022 
+  * [:book: PDF version](https://christophm.github.io/interpretable-ml-book/)
+  * [:memo: Notebooks/Code]() 
 
 ## Math
 
