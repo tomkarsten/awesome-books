@@ -67,7 +67,7 @@
 * **Speech and Language Processing** | Dan Jurafsky, James H. Martin 
   * [:book: PDF version](https://web.stanford.edu/~jurafsky/slp3/)
 * **Supervised Machine Learning for Text Analysis in R** | Emil Hvitfeldt, Julia Silge | CRC Press
-  * [:book: PDF version](https://smltar.com/)
+  * [:globe_with_meridians: Web version](https://smltar.com/)
   * [:memo: Notebooks/Code](https://github.com/EmilHvitfeldt/smltar) 
 
 ## Reinforcement Learning
@@ -79,7 +79,7 @@
 ## Explainable AI (XAI)
 
 * **Interpretable Machine Learning** | Christoph Molnar | 2022 
-  * [:book: PDF version](https://christophm.github.io/interpretable-ml-book/)
+  * [:globe_with_meridians: Web version](https://christophm.github.io/interpretable-ml-book/)
   * [:memo: Notebooks/Code]() 
 
 ## Math
