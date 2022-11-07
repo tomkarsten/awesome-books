@@ -5,6 +5,9 @@
 
 ## AI/General
 
+* **Data Science in Context: Foundations, Challenges, Opportunities** | Alfred Spector, Peter Norvig, Chris Wiggins, Jeannette M. Wing | Cambridge University Press | 2022
+  * In this book, four leading experts convey the excitement and promise of data science and examine the major challenges in gaining its benefits and mitigating its harms. They offer frameworks for critically evaluating the ingredients and the ethical considerations needed to apply data science productively, illustrated by extensive application examples.
+  * [:book: PDF version](https://datascienceincontext.com/)
 * **The Theory and Practice of Enterprise AI** | Ilya Katsov | 2022
   * A comprehensive guide to how marketing, supply chain, and production operations can be improved using deep learning and reinforcement learning methods, as well as their combination with traditional analytics and optimization approaches. The book is written for enterprise data scientists and analytics managers, and will also be useful for graduate students in operations research and applied statistics.
   * [:book: PDF version](https://www.enterprise-ai-book.com/)
