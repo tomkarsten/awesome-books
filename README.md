@@ -38,10 +38,8 @@
 * **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control 2nd Edition** | Steven L. Brunton J. Nathan Kutz | Cambridge University Press
   * This textbook trains mathematical scientists and engineers for the next generation of scientific discovery by offering a broad overview of the growing intersection of data-driven methods, machine learning, applied optimization, and classical fields of engineering mathematics and mathematical physics. With a focus on integrating dynamical systems modeling and control with modern methods in applied machine learning, this text includes methods that were chosen for their relevance, simplicity, and generality. Topics range from introductory to research-level material, making it accessible to advanced undergraduate and beginning graduate students from the engineering and physical sciences.
 * **Machine Learning Design Patterns** | Valliappa Lakshmanan, Sara Robinson, Michael Munn | O'Reilly
-  * The design patterns in this book capture best practices and solutions to recurring problems in machine learning. The authors, three Google engineers, catalog proven methods to help data scientists tackle common problems throughout the ML process. These design patterns codify the experience of hundreds of experts into straightforward, approachable advice. In this book, you will find detailed explanations of 30 patterns for data and problem representation, operationalization, repeatability, reproducibility, flexibility, explainability, and fairness. Each pattern includes a description of the problem, a variety of potential solutions, and recommendations for choosing the best technique for your situation.
   * [:memo: Notebooks/Code](https://github.com/GoogleCloudPlatform/ml-design-patterns)
 * **Machine Learning - A First Course for Engineers and Scientists** | Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, Thomas B. Schön | Cambridge University Press | 2022
-  * This book covers a selection of supervised machine learning methods, from the most fundamental (k-NN, decision trees, linear and logistic regression) to more advanced methods (deep neural networks, support vector machines, Gaussian processes, random forests and boosting), plus commonly-used unsupervised methods (generative modeling, k-means, PCA, autoencoders and generative adversarial networks). Careful explanations and pseudo-code are presented for all methods. The authors maintain a focus on the fundamentals by drawing connections between methods and discussing general concepts such as loss functions, maximum likelihood, the bias-variance decomposition, ensemble averaging, kernels and the Bayesian approach along with generally useful tools such as regularization, cross validation, evaluation metrics and optimization methods. The final chapters offer practical advice for solving real-world supervised machine learning problems and on ethical aspects of modern machine learning.
   * [:book: PDF version](https://smlbook.org/)
   * [:memo: Notebooks/Code](https://github.com/uu-sml/course-sml-public)
 
@@ -82,54 +80,48 @@
 
 * **Interpretable Machine Learning** | Christoph Molnar | 2022 
   * [:globe_with_meridians: Web version](https://christophm.github.io/interpretable-ml-book/)
-  * [:memo: Notebooks/Code]() 
+
 
 ## Math
 
-[:book: Mathematics for Machine Learning](https://mml-book.github.io/) | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press | :star::star::star::star::star:
-
-[:moneybag: Practical Statistics for Data Scientists](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/) | Peter Bruce, Andrew Bruce, Peter Gedeck | O'Reilly 
-
-[:book: Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | CRC Press
-
-[:book: Linear Algebra Done Right Abridged](https://linear.axler.net/LinearAbridged.pdf) | Sheldon Axler 
-
-[:moneybag: Linear Algebra for Everyone](http://math.mit.edu/~gs/everyone/) | Gilbert Strang | :star::star::star::star::star:
-
-[:moneybag: Linear Algebra and Learning from Data](http://math.mit.edu/~gs/learningfromdata/) | Gilbert Strang | :star::star::star::star::star:
-
-[:book: Introduction to Probability](https://projects.iq.harvard.edu/stat110/home) | Joseph K. Blitzstein, Jessica Hwang | CRC Press |:star::star::star::star::star:
-
-[:moneybag: Statistical Rethinking, 2nd Edition](https://xcelab.net/rm/statistical-rethinking/) | Richard McElreath | CRC Press
-
-[:book: Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) | Martin, Osvaldo A. and Kumar, Ravin and Lao, Junpeng | CRC Press
-
-[:book: Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Rob J Hyndman, George Athanasopoulos | OTexts
-
-[:book: Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) | Alicia A. Johnson, Miles Q. Ott, Mine Dogucu | CRC Press
-
+* **Mathematics for Machine Learning** | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press | :star::star::star::star::star:
+  * [:book: PDF version](https://mml-book.github.io/)
+* **Bayesian Data Analysis** | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | CRC Press
+  * [:book: PDF version](http://www.stat.columbia.edu/~gelman/book/)
+* **Linear Algebra for Everyone** | Gilbert Strang | :star::star::star::star::star:
+* **Linear Algebra and Learning from Data** | Gilbert Strang | :star::star::star::star::star:
+* **Introduction to Probability** | Joseph K. Blitzstein, Jessica Hwang | CRC Press |:star::star::star::star::star:
+  * [:book: PDF version](https://projects.iq.harvard.edu/stat110/home)
+* **Bayesian Modeling and Computation in Python** | Martin, Osvaldo A. and Kumar, Ravin and Lao, Junpeng | CRC Press
+  * [:globe_with_meridians: Web version](https://bayesiancomputationbook.com/welcome.html)
+* **Forecasting: Principles and Practice** | Rob J Hyndman, George Athanasopoulos | OTexts
+  * [:globe_with_meridians: Web version](https://otexts.com/fpp3/)
+* **Bayes Rules! An Introduction to Applied Bayesian Modeling** | Alicia A. Johnson, Miles Q. Ott, Mine Dogucu | CRC Press
+  * [:globe_with_meridians: Web version](https://www.bayesrulesbook.com/)
 
 ## Data Science
 
-[:book: R for Data Science](https://r4ds.had.co.nz/) | Hadley Wickham, Garett Grolemund | O'Reilly | :star::star::star::star::star:
-
-[:book: Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | Jake VanderPlas | O'Reilly | :star::star::star::star::star:
-
-[:book: Python for Data Analysis, 3rd edition](https://wesmckinney.com/book/) | Wes McKinney | O'Reilly | :star::star::star::star::star:
-
-[:book: Practical Data Science](https://m-clark.github.io/data-processing-and-visualization/) | Michael Clark
-
-[:book: Introduction to Data Science](https://rafalab.github.io/dsbook/) | Rafael A. Irizarry | CRS Press
-
-[:book: Data Analytics: A Small Data Approach](http://analytics.shuaihuang.info/) | Shuai Huang, Houtao Deng | CRC Press
-
-[:book: Modern Data Science with R, 2nd edition](https://beanumber.github.io/mdsr2e/) | Benjamin S. Baumer, Daniel T. Kaplan, Nicholas J. Horton | CRC Press
-
-[:book: Explanatory Model Analysis](http://ema.drwhy.ai/) | Przemyslaw Biecek, Tomasz Burzykowski | CRC Press
-
-[:book: Tidyverse Skills for Data Science](https://jhudatascience.org/tidyversecourse/) | Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng
-
-[:book: Algorithms for Decision Making](https://algorithmsbook.com/) | Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray | MIT Press
+* **R for Data Science** | Hadley Wickham, Garett Grolemund | O'Reilly | :star::star::star::star::star:
+  * [:globe_with_meridians: Web version](https://r4ds.had.co.nz/)
+* **Python Data Science Handbook 2nd edition** | Jake VanderPlas | O'Reilly | :star::star::star::star::star:
+  * [:memo: Notebooks/Code](https://github.com/jakevdp/PythonDataScienceHandbook/tree/v2/notebooks_v2) 
+* **Python for Data Analysis, 3rd edition**] | Wes McKinney | O'Reilly | :star::star::star::star::star:
+  * [:globe_with_meridians: Web version]([https://wesmckinney.com/book/)
+  * [:memo: Notebooks/Code](https://github.com/wesm/pydata-book/tree/3rd-edition) 
+* **Practical Data Science** | Michael Clark
+  * [:globe_with_meridians: Web version](https://m-clark.github.io/data-processing-and-visualization/)
+* **Introduction to Data Science**] | Rafael A. Irizarry | CRS Press
+  * [:globe_with_meridians: Web version](https://rafalab.github.io/dsbook/)
+**Data Analytics: A Small Data Approach** | Shuai Huang, Houtao Deng | CRC Press
+  * [:globe_with_meridians: Web version](http://analytics.shuaihuang.info/)
+* **Modern Data Science with R, 2nd edition** | Benjamin S. Baumer, Daniel T. Kaplan, Nicholas J. Horton | CRC Press
+  * [:globe_with_meridians: Web version](https://mdsr-book.github.io/mdsr2e/)
+* **Explanatory Model Analysis** | Przemyslaw Biecek, Tomasz Burzykowski | CRC Press
+  * [:globe_with_meridians: Web version](http://ema.drwhy.ai/)
+* **Tidyverse Skills for Data Science** | Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng
+  * [:globe_with_meridians: Web version](https://jhudatascience.org/tidyversecourse/)
+**Algorithms for Decision Making**| Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray | MIT Press
+  * [:globe_with_meridians: Web version](https://algorithmsbook.com/)
 
 
 ## Reporting & Visualization
