@@ -105,14 +105,14 @@
   * [:globe_with_meridians: Web version](https://r4ds.had.co.nz/)
 * **Python Data Science Handbook 2nd edition** | Jake VanderPlas | O'Reilly | :star::star::star::star::star:
   * [:memo: Notebooks/Code](https://github.com/jakevdp/PythonDataScienceHandbook/tree/v2/notebooks_v2) 
-* **Python for Data Analysis, 3rd edition**] | Wes McKinney | O'Reilly | :star::star::star::star::star:
-  * [:globe_with_meridians: Web version]([https://wesmckinney.com/book/)
+* **Python for Data Analysis, 3rd edition** | Wes McKinney | O'Reilly | :star::star::star::star::star:
+  * [:globe_with_meridians: Web version](https://wesmckinney.com/book/)
   * [:memo: Notebooks/Code](https://github.com/wesm/pydata-book/tree/3rd-edition) 
 * **Practical Data Science** | Michael Clark
   * [:globe_with_meridians: Web version](https://m-clark.github.io/data-processing-and-visualization/)
 * **Introduction to Data Science**] | Rafael A. Irizarry | CRS Press
   * [:globe_with_meridians: Web version](https://rafalab.github.io/dsbook/)
-**Data Analytics: A Small Data Approach** | Shuai Huang, Houtao Deng | CRC Press
+* **Data Analytics: A Small Data Approach** | Shuai Huang, Houtao Deng | CRC Press
   * [:globe_with_meridians: Web version](http://analytics.shuaihuang.info/)
 * **Modern Data Science with R, 2nd edition** | Benjamin S. Baumer, Daniel T. Kaplan, Nicholas J. Horton | CRC Press
   * [:globe_with_meridians: Web version](https://mdsr-book.github.io/mdsr2e/)
@@ -120,7 +120,7 @@
   * [:globe_with_meridians: Web version](http://ema.drwhy.ai/)
 * **Tidyverse Skills for Data Science** | Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng
   * [:globe_with_meridians: Web version](https://jhudatascience.org/tidyversecourse/)
-**Algorithms for Decision Making**| Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray | MIT Press
+* **Algorithms for Decision Making**| Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray | MIT Press
   * [:globe_with_meridians: Web version](https://algorithmsbook.com/)
 
 
