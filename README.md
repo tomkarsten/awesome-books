@@ -168,7 +168,7 @@
 :star::star::star::star::star:
 * **Understanding ECMAScript 6** | Nicholas C. Zakas
   * [:globe_with_meridians: Web version](https://github.com/nzakas/understandinges6)
-* **You Don't Know JS Yet, 2nd Edition] | Kyle Simpson
+* **You Don't Know JS Yet, 2nd Edition** | Kyle Simpson
   * [:globe_with_meridians: Web version](https://github.com/getify/You-Dont-Know-JS)
 
 
