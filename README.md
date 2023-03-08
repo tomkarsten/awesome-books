@@ -92,7 +92,8 @@
   * [:globe_with_meridians: Web version](https://otexts.com/fpp3/)
 * **Bayes Rules! An Introduction to Applied Bayesian Modeling** | Alicia A. Johnson, Miles Q. Ott, Mine Dogucu | CRC Press
   * [:globe_with_meridians: Web version](https://www.bayesrulesbook.com/)
-
+* **All of Statistics. A Concise Course in Statistical Inference** | ALarry Wasserman | Springer
+  * [:book: PDF version](https://www.stat.cmu.edu/~larry/all-of-statistics/)
 
 ## Data Science
 
