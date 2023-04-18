@@ -40,6 +40,8 @@
 
 ## Deep Learning
 
+* :new::fire: **Understanding Deep Learning** | Simon J.D. Prince | MIT Press | 2023
+  * [:book: PDF Version](https://udlbook.github.io/udlbook/) 
 * **Dive into Deep Learning** | Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola | :star::star::star::star::star:
   * [:globe_with_meridians: Web version](https://d2l.ai/)
   * [:book: PDF Version in PyTorch](https://d2l.ai/d2l-en.pdf), [:book: PDF Version in MXNet](https://d2l.ai/d2l-en-mxnet.pdf)
