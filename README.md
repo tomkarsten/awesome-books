@@ -40,7 +40,7 @@
 
 ## Deep Learning
 
-* :new::fire: **Understanding Deep Learning** | Simon J.D. Prince | MIT Press | 2023
+* :new::fire::fire::fire: **Understanding Deep Learning** | Simon J.D. Prince | MIT Press | 2023
   * [:book: PDF Version](https://udlbook.github.io/udlbook/) 
 * **Dive into Deep Learning** | Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola | :star::star::star::star::star:
   * [:globe_with_meridians: Web version](https://d2l.ai/)
@@ -122,6 +122,8 @@
 
 ## Reporting & Visualization
 
+* :new::fire::fire::fire: **Telling Stories with Data** | Rohan Alexander | CRC | 2023
+  * [:globe_with_meridians: Web version](https://tellingstorieswithdata.com/)
 * **Fundamentals of Data Visualization** | Claus O. Wilke | O'Reilly | :star::star::star::star::star:
   * [:globe_with_meridians: Web version](https://clauswilke.com/dataviz/)
 * **BBC Visual and Data Journalism cookbook for R graphics** | 2019
