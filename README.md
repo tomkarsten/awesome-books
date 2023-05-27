@@ -80,6 +80,8 @@
 
 ## Math
 
+* :new::fire::fire::fire: **An Infinite Descent into Pure Mathematics** | Clive Newstead | 2023
+  * [:book: PDF version](https://infinitedescent.xyz/)
 * **Mathematics for Machine Learning** | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press | :star::star::star::star::star:
   * [:book: PDF version](https://mml-book.github.io/)
 * **Bayesian Data Analysis** | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | CRC Press
