@@ -40,7 +40,7 @@
 
 ## Deep Learning
 
-* :new::fire::fire::fire: **Understanding Deep Learning** | Simon J.D. Prince | MIT Press | 2023
+* :new::fire: **Understanding Deep Learning** | Simon J.D. Prince | MIT Press | 2023
   * [:book: PDF Version](https://udlbook.github.io/udlbook/) 
 * **Dive into Deep Learning** | Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola | :star::star::star::star::star:
   * [:globe_with_meridians: Web version](https://d2l.ai/)
@@ -80,15 +80,15 @@
 
 ## Math
 
-* :new::fire::fire::fire: **An Infinite Descent into Pure Mathematics** | Clive Newstead | 2023
+* **An Infinite Descent into Pure Mathematics** | Clive Newstead | 2023
   * [:book: PDF version](https://infinitedescent.xyz/)
-* **Mathematics for Machine Learning** | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press | :star::star::star::star::star:
+* **Mathematics for Machine Learning** | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press
   * [:book: PDF version](https://mml-book.github.io/)
 * **Bayesian Data Analysis** | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | CRC Press
   * [:book: PDF version](http://www.stat.columbia.edu/~gelman/book/)
-* **Linear Algebra for Everyone** | Gilbert Strang | :star::star::star::star::star:
-* **Linear Algebra and Learning from Data** | Gilbert Strang | :star::star::star::star::star:
-* **Introduction to Probability** | Joseph K. Blitzstein, Jessica Hwang | CRC Press |:star::star::star::star::star:
+* **Linear Algebra for Everyone** | Gilbert Strang 
+* **Linear Algebra and Learning from Data** | Gilbert Strang 
+* **Introduction to Probability** | Joseph K. Blitzstein, Jessica Hwang | CRC Press 
   * [:book: PDF version](https://projects.iq.harvard.edu/stat110/home)
 * **Bayesian Modeling and Computation in Python** | Martin, Osvaldo A. and Kumar, Ravin and Lao, Junpeng | CRC Press
   * [:globe_with_meridians: Web version](https://bayesiancomputationbook.com/welcome.html)
@@ -101,6 +101,8 @@
 
 ## Data Science
 
+* :new::fire: **Analyzing Financial and Economic Data with R** | Marcelo S. Perlin | 2023
+  * [:book: PDF version](https://msperlin.com/afedr/)
 * **R for Data Science** | Hadley Wickham, Garett Grolemund | O'Reilly | :star::star::star::star::star:
   * [:globe_with_meridians: Web version](https://r4ds.had.co.nz/)
 * **Python Data Science Handbook 2nd edition** | Jake VanderPlas | O'Reilly | :star::star::star::star::star:
@@ -124,7 +126,7 @@
 
 ## Reporting & Visualization
 
-* :new::fire::fire::fire: **Telling Stories with Data** | Rohan Alexander | CRC | 2023
+* :new::fire: **Telling Stories with Data** | Rohan Alexander | CRC | 2023
   * [:globe_with_meridians: Web version](https://tellingstorieswithdata.com/)
 * **Fundamentals of Data Visualization** | Claus O. Wilke | O'Reilly | :star::star::star::star::star:
   * [:globe_with_meridians: Web version](https://clauswilke.com/dataviz/)
