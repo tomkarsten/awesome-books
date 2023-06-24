@@ -14,6 +14,9 @@
 
 ## Machine Learning 
 
+
+* **:new::fire: Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control, 2nd edition** | S. L. Brunton and J. N. Kutz | Cambridge University Press | 2022
+  * [:book: PDF version](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
 * **Probabilistic Machine Learning: Introduction** | Kevin Patrick Murphy | MIT Press | 2022 :star::star::star::star::star:
   * [:book: PDF version](https://probml.github.io/pml-book/book1.html)
   * [:memo: Notebooks/Code](https://github.com/probml/pyprobml/tree/master/notebooks/book1)   
@@ -126,7 +129,7 @@
 
 ## Reporting & Visualization
 
-* :new::fire: **Telling Stories with Data** | Rohan Alexander | CRC | 2023
+* **Telling Stories with Data** | Rohan Alexander | CRC | 2023
   * [:globe_with_meridians: Web version](https://tellingstorieswithdata.com/)
 * **Fundamentals of Data Visualization** | Claus O. Wilke | O'Reilly | :star::star::star::star::star:
   * [:globe_with_meridians: Web version](https://clauswilke.com/dataviz/)
