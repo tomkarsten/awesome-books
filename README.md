@@ -31,9 +31,6 @@
   * [:book: PDF version](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 * **Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow 3rd Edition** | Aurélien Géron | O'Reilly :star::star::star::star::star:
   * [:memo: Notebooks/Code](https://github.com/ageron/handson-ml3) 
-* **Machine Learning Refined, 2nd Edition** | Jeremy Watt, Reza Borhani, Aggelos K. Katsaggelos | Cambridge University Press
-  * [:memo: Notebooks/Code](https://github.com/jermwatt/machine_learning_refined) 
-* **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control 2nd Edition** | Steven L. Brunton J. Nathan Kutz | Cambridge University Press
 * **Machine Learning Design Patterns** | Valliappa Lakshmanan, Sara Robinson, Michael Munn | O'Reilly
   * [:memo: Notebooks/Code](https://github.com/GoogleCloudPlatform/ml-design-patterns)
 * **Machine Learning - A First Course for Engineers and Scientists** | Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, Thomas B. Schön | Cambridge University Press | 2022
