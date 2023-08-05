@@ -79,7 +79,8 @@
   * [:globe_with_meridians: Web version](https://christophm.github.io/interpretable-ml-book/)
 
 ## Math
-
+* :new::fire: **Statistics And Machine Learning In Python** | Edouard Duchesnay, Tommy Lofstedt, Feki Younes 
+  * [:book: PDF version](https://pyoflife.com/download-statistics-and-machine-learning-in-python/)
 * **An Infinite Descent into Pure Mathematics** | Clive Newstead | 2023
   * [:book: PDF version](https://infinitedescent.xyz/)
 * **Mathematics for Machine Learning** | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press
