@@ -57,8 +57,6 @@
 
 ## Natural Language Processing
 
-* **Natural Language Processing in Action, Second Edition** | Hobson Lane, Maria Dyshel | Manning | 2023
-  * [:memo: Notebooks/Code](https://www.manning.com/books/natural-language-processing-in-action-second-edition) 
 * **Speech and Language Processing** | Dan Jurafsky, James H. Martin 
   * [:book: PDF version](https://web.stanford.edu/~jurafsky/slp3/)
 * **Supervised Machine Learning for Text Analysis in R** | Emil Hvitfeldt, Julia Silge | CRC Press
@@ -79,24 +77,15 @@
   * [:globe_with_meridians: Web version](https://christophm.github.io/interpretable-ml-book/)
 
 ## Math
-* :new::fire: **Statistics And Machine Learning In Python** | Edouard Duchesnay, Tommy Lofstedt, Feki Younes 
-  * [:book: PDF version](https://pyoflife.com/download-statistics-and-machine-learning-in-python/)
-* **An Infinite Descent into Pure Mathematics** | Clive Newstead | 2023
-  * [:book: PDF version](https://infinitedescent.xyz/)
+
 * **Mathematics for Machine Learning** | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press
   * [:book: PDF version](https://mml-book.github.io/)
 * **Bayesian Data Analysis** | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | CRC Press
   * [:book: PDF version](http://www.stat.columbia.edu/~gelman/book/)
-* **Linear Algebra for Everyone** | Gilbert Strang 
-* **Linear Algebra and Learning from Data** | Gilbert Strang 
 * **Introduction to Probability** | Joseph K. Blitzstein, Jessica Hwang | CRC Press 
   * [:book: PDF version](https://projects.iq.harvard.edu/stat110/home)
-* **Bayesian Modeling and Computation in Python** | Martin, Osvaldo A. and Kumar, Ravin and Lao, Junpeng | CRC Press
-  * [:globe_with_meridians: Web version](https://bayesiancomputationbook.com/welcome.html)
 * **Forecasting: Principles and Practice** | Rob J Hyndman, George Athanasopoulos | OTexts
   * [:globe_with_meridians: Web version](https://otexts.com/fpp3/)
-* **Bayes Rules! An Introduction to Applied Bayesian Modeling** | Alicia A. Johnson, Miles Q. Ott, Mine Dogucu | CRC Press
-  * [:globe_with_meridians: Web version](https://www.bayesrulesbook.com/)
 * **All of Statistics. A Concise Course in Statistical Inference** | ALarry Wasserman | Springer
   * [:book: PDF version](https://www.stat.cmu.edu/~larry/all-of-statistics/)
 
@@ -154,7 +143,6 @@
 ## Programming Python 
 
 * **Fluent Python, 2nd Edition** | Lucian Ramalho | O'Reilly | :star::star::star::star::star:
-* **Effective Python, 2nd Edition** | Brett Slatkin | Addison-Wesley Professional
 * **Python Programming And Numerical Methods** | Qingkai Kong, Timmy Siauw, Alexandre Bayen | Elsevier
   * [:globe_with_meridians: Web version](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 * **Architecture Patterns with Python** | Harry Percival, Bob Gregory | O'Reilly | 2020
@@ -173,7 +161,6 @@
 
 ## Programming JS
 
-* **The Principles of Object-Oriented JavaScript** | Nicholas C. Zakas | No Starch Press | :star::star::star::star::star:
 * **JavaScript: The Definitive Guide, 7th Edition** | David Flanagan | O'Reilly | 
 :star::star::star::star::star:
 * **Understanding ECMAScript 6** | Nicholas C. Zakas
