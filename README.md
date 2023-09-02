@@ -83,7 +83,7 @@
 * **Bayesian Data Analysis** | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | CRC Press
   * [:book: PDF version](http://www.stat.columbia.edu/~gelman/book/)
 * **Introduction to Probability** | Joseph K. Blitzstein, Jessica Hwang | CRC Press 
-  * [:book: PDF version](https://projects.iq.harvard.edu/stat110/home)
+  * [:book: PDF version]([https://projects.iq.harvard.edu/stat110/home](https://www.wzchen.com/probability-cheatsheet))
 * **Forecasting: Principles and Practice** | Rob J Hyndman, George Athanasopoulos | OTexts
   * [:globe_with_meridians: Web version](https://otexts.com/fpp3/)
 * **All of Statistics. A Concise Course in Statistical Inference** | ALarry Wasserman | Springer
