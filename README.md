@@ -76,6 +76,12 @@
 * **Interpretable Machine Learning** | Christoph Molnar | 2022 
   * [:globe_with_meridians: Web version](https://christophm.github.io/interpretable-ml-book/)
 
+## Dev / Machine Learning Engineering
+
+* :new::fire: **Machine Learning Engineering Open Book** | Stas Bekman et al | 2024 
+  * [:globe_with_meridians: Web version](https://github.com/stas00/ml-engineering?tab=readme-ov-file)
+  * [:book: PDF version](https://huggingface.co/stas/ml-engineering-book/resolve/main/Stas%20Bekman%20-%20Machine%20Learning%20Engineering.pdf?download=true)
+   
 ## Math
 
 * **Mathematics for Machine Learning** | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press
