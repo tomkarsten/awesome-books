@@ -148,6 +148,8 @@
 
 ## Programming Python 
 
+* **:new::fire: Think Python, 3rd edition** | Allen B. Downey | O'Reilly | 2024
+  * [:globe_with_meridians: Web version](https://allendowney.github.io/ThinkPython/)
 * **:new::fire: Scientific Python Lectures** | Gaël Varoquaux, Emmanuelle Gouillart, Olav Vahtras et al | 2023
   * [:book: PDF version](https://lectures.scientific-python.org/)
 * **Fluent Python, 2nd Edition** | Lucian Ramalho | O'Reilly | :star::star::star::star::star:
