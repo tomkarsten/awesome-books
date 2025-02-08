@@ -84,6 +84,8 @@
    
 ## Math
 
+* **All Models Are Wrong: Concepts of Statistical Learning** | Gaston Sanchez, Ethan Marzban 
+  * [:globe_with_meridians: Web version](https://allmodelsarewrong.github.io/)
 * **Mathematics for Machine Learning** | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Cambridge University Press
   * [:book: PDF version](https://mml-book.github.io/)
 * **Bayesian Data Analysis** | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | CRC Press
@@ -92,9 +94,10 @@
   * [:book: PDF version]([https://projects.iq.harvard.edu/stat110/home](https://www.wzchen.com/probability-cheatsheet))
 * **Forecasting: Principles and Practice** | Rob J Hyndman, George Athanasopoulos | OTexts
   * [:globe_with_meridians: Web version](https://otexts.com/fpp3/)
-* **All of Statistics. A Concise Course in Statistical Inference** | ALarry Wasserman | Springer
+* **All of Statistics. A Concise Course in Statistical Inference** | Larry Wasserman | Springer
   * [:book: PDF version](https://www.stat.cmu.edu/~larry/all-of-statistics/)
 
+    
 ## Data Science
 
 * :new::fire: **Analyzing Financial and Economic Data with R** | Marcelo S. Perlin | 2023
