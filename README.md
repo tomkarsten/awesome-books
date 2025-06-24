@@ -51,7 +51,9 @@
 
 ## Computer Vision
 
-* **Deep Learning for Vision Systems** | Mohamed Elgendy | Manning | 2022 |:star::star::star::star::star:
+* **Foundations of Computer Vision** | Antonio Torralba, Phillip Isola, and William Freeman | MIT Press | 2024 :star::star::star::star::star:
+  * [:globe_with_meridians: Web version](https://visionbook.mit.edu/)
+* **Deep Learning for Vision Systems** | Mohamed Elgendy | Manning | 2022 :star::star::star::star::star:
   * [:memo: Notebooks/Code](https://github.com/moelgendy/deep_learning_for_vision_systems)
 
 
@@ -62,6 +64,9 @@
 * **Supervised Machine Learning for Text Analysis in R** | Emil Hvitfeldt, Julia Silge | CRC Press
   * [:globe_with_meridians: Web version](https://smltar.com/)
   * [:memo: Notebooks/Code](https://github.com/EmilHvitfeldt/smltar) 
+
+## Computer Vision
+
 
 
 ## Reinforcement Learning
