@@ -14,7 +14,8 @@
 
 ## Machine Learning 
 
-
+* **:new::fire: Introduction to Machine Learning. From Math to Code** | Ruye Wang | Cambridge University Press | 2025
+  * [:book: PDF version](https://pages.hmc.edu/ruye/book2/Book1.pdf)
 * **:new::fire: Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control, 2nd edition** | S. L. Brunton and J. N. Kutz | Cambridge University Press | 2022
   * [:book: PDF version](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
 * **Probabilistic Machine Learning: Introduction** | Kevin Patrick Murphy | MIT Press | 2022 :star::star::star::star::star:
@@ -106,7 +107,7 @@
 ## Data Science
 
 * :new::fire: **Analyzing Financial and Economic Data with R** | Marcelo S. Perlin | 2023
-  * [:book: PDF version](https://msperlin.com/afedr/)
+  * [:globe_with_meridians: Web version](https://msperlin.com/afedr/)
 * **R for Data Science** | Hadley Wickham, Garett Grolemund | O'Reilly | :star::star::star::star::star:
   * [:globe_with_meridians: Web version](https://r4ds.had.co.nz/)
 * **Python Data Science Handbook 2nd edition** | Jake VanderPlas | O'Reilly | :star::star::star::star::star:
