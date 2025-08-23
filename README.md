@@ -2,6 +2,8 @@
 
 <img src="https://repository-images.githubusercontent.com/318766572/cc4bb180-4dee-11eb-9add-06a3b2f024c8" height="128px" align="right">
 
+* **The Little Book of ML Metrics** 
+  * [:globe_with_meridians: Web version](https://github.com/NannyML/The-Little-Book-of-ML-Metrics?tab=readme-ov-file)
 * **:fire: Machine Learning Systems - Principles and Practices of Engineering Artificially Intelligent Systems** | Vijay Janapa Reddi | MIT Press | 2025
   * [:globe_with_meridians: Web version](https://www.mlsysbook.ai/)
   * [:book: PDF version](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf)
