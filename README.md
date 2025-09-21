@@ -2,7 +2,8 @@
 
 <img src="https://repository-images.githubusercontent.com/318766572/cc4bb180-4dee-11eb-9add-06a3b2f024c8" height="128px" align="right">
 
-
+* **Learning Deep Representations of Data Distributions** | Sam Buchanan, Druv Pai,Peng Wang, Yi Ma
+  * [:globe_with_meridians: Web version](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)
 * **Machine Learning in Production: From Models to Products** | Christian Kästner | MIT Press | 2025
   * [:globe_with_meridians: Web version](https://mlip-cmu.github.io/book/index.html)
 * **The Little Book of ML Metrics** 
